@@ -1,0 +1,8 @@
+[
+  {
+    "username": "admin",
+    "password": "admin123",
+    "deviceId": "",
+    "expiry": "2030-12-31"
+  }
+]
